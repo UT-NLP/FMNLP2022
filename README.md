@@ -11,7 +11,7 @@ Resources for the Foundation Models in NLP course (FMNLP 2022-2023)
 [![dicpatcha-slides][slides_badge]][dicaptcha_slide]
 [![dicpatcha-demo][demo_badge]][dicaptcha_demo]
 
-  [dicaptcha]: https://github.com/UT-NLP/FMNLP2022/edit/main/README.md
+  [dicaptcha]: https://github.com/realamirhe/dicaptcha
   [dicaptcha_slide]: https://docs.google.com/presentation/d/1ARbmzb_C3B-hN-pEPFlt5jiScLO08jxrUn0mRA4ZI-I/edit?usp=sharing
   [dicaptcha_demo]: https://dicaptcha.vercel.app
 
